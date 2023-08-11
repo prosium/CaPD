@@ -14,7 +14,7 @@
 <br> 
 
 # Quick start
- - Please refer this tutorial
+ - Please refer this [tutorial](https://github.com/prosium/CaPD/blob/main/docs/tutorial_1.0.md)
 
 # Summary
 
