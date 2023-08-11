@@ -30,7 +30,6 @@
 <center>
   
 |AnalysisID|TissueType|TumorType|Remarks|Samples|DataType|Reference|
-
 |:---:|:---:|:---:|:---:|---:|:---:|:---:|
 |B11|Brain|Cancer|Childhood|218|MTPH|[33242424](https://pubmed.ncbi.nlm.nih.gov/33242424/)
 |B12|Brain|Cancer|Meningioma|121|MTP|[34433969](https://pubmed.ncbi.nlm.nih.gov/34433969/)
@@ -54,6 +53,7 @@
 </center>
 
 **Additional information on CPTAC**
+
 CPTAC, which stands for Clinical Proteomic Tumor Analysis Consortium, is a large-scale research program focused on cancer studies sponsored by the National Cancer Institute (NCI) in the United States. The primary goal of CPTAC is to provide comprehensive biological information on various types of cancer including genomics and proteomics. This involves understanding protein changes involved in cancer initiation and progression and developing personalized treatment strategies based on high-throughput data. As part of this effort, elaborate proteogenomics data generated from advanced LC-MS/MS techniques have been made publicly available. These datasets enable protein expression profiling, mutation analysis, and investigation of cancer mechanisms across different types of cancer, thereby enhancing our understanding of their interrelationships.
 
 
