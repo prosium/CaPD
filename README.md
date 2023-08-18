@@ -69,7 +69,7 @@ CPTAC, which stands for Clinical Proteomic Tumor Analysis Consortium, is a large
 
 <details>
 
-<summary>Version 0.3 (2023-07-19)</summary>
+<summary>Version 1.0 (2023-07-19)</summary>
   
 - Updated datasets: 454 samples updated from [papers](https://pubmed.ncbi.nlm.nih.gov/?term=33242424,37460463,34433969)
 - Fixed minor bugs  
